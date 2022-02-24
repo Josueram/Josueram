@@ -15,7 +15,8 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<img width="50%" align="right" src="https://user-images.githubusercontent.com/60676340/155595437-27145f9e-7cd0-45e3-a620-c7e4ee0d4315.png" />
+<img width="40%" align="right" src="https://user-images.githubusercontent.com/60676340/155595437-27145f9e-7cd0-45e3-a620-c7e4ee0d4315.png" />
+
 
 - 🔭 I’m currently working on <a href="https://github.com/Josueram/to-do-app">To Do App</a>
 - 🌱 I’m currently learning React, Node.js, and Webpack
@@ -26,7 +27,6 @@
 &nbsp;
 
 **Languages and Tools:** 
-
 <p align="left">
   <!-- Languages and tools -->
   <img width="4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
