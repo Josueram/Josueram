@@ -50,5 +50,5 @@
 &nbsp;
 
 <!-- Stats -->  
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josueram&langs_count=10&layout=compact" />
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josueram&langs_count=10&layout=compact" />
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=Josueram&show_icons=true&hide_border=true" />
