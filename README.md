@@ -10,13 +10,12 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/josueram_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josueramirez0110@gmail.com)
 
+<img width="45%" align="right" src="https://user-images.githubusercontent.com/60676340/155595437-27145f9e-7cd0-45e3-a620-c7e4ee0d4315.png" />
+
 &nbsp;
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-
-<img width="40%" align="right" src="https://user-images.githubusercontent.com/60676340/155595437-27145f9e-7cd0-45e3-a620-c7e4ee0d4315.png" />
-
 
 - 🔭 I’m currently working on <a href="https://github.com/Josueram/to-do-app">To Do App</a>
 - 🌱 I’m currently learning React, Node.js, and Webpack
